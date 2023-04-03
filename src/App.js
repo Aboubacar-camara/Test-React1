@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
      <div className="container mt-3 mb-3">
-   <div className="mb-3">
+   <div className="mb-3"> 
       <label htmlFor="exampleFormControlInput1" className="form-label">Name</label>
       <input type="name" className="form-control" id="exampleFormControlInput1" />
    </div>
